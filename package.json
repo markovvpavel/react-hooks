@@ -1,0 +1,17 @@
+{
+  "name": "react-hooks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/markovvpavel/react-hooks.git",
+  "author": "markovvpavel <markovvpavel@proton.me>",
+  "license": "MIT",
+  "dependencies": {
+    "@studio-freight/lenis": "^1.0.42",
+    "react": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.5",
+    "@types/react": "^19.0.5",
+    "typescript": "^5.7.3"
+  }
+}

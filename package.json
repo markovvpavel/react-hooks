@@ -1,8 +1,5 @@
 {
   "name": "react-hooks",
-  "version": "1.0.0",
-  "main": "index.js",
-  "repository": "https://github.com/markovvpavel/react-hooks.git",
   "author": "markovvpavel <markovvpavel@proton.me>",
   "license": "MIT",
   "dependencies": {
